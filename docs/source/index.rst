@@ -9,6 +9,8 @@ Contents
 --------
 
 .. toctree::
+   Introduction
+   User
    Options
    Project Index
    Exposure
