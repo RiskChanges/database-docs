@@ -9,10 +9,10 @@ Contents
 --------
 
 .. toctree::
-   Introduction
-   User
-   Options
-   Project Index
-   Exposure
-   Loss
-   Risk
+   introduction
+   user
+   options
+   project_index
+   exposure
+   loss
+   risk
