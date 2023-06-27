@@ -7,8 +7,10 @@ Welcome to RiskChanges Database Documentation!
 
 Contents
 --------
-
 .. toctree::
+   :maxdepth: 10
+   :caption: Contents:
+
    introduction
    user
    options
